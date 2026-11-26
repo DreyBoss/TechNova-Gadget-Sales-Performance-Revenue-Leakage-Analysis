@@ -232,3 +232,5 @@ Based on the findings, the following recommendations were proposed:
 The project transformed raw transaction-level sales data into an interactive business intelligence solution that identifies sales trends, evaluates profitability, measures revenue leakage, and provides actionable recommendations.
 
 It demonstrates practical skills in data cleaning, data modelling, analytical reporting, KPI development, dashboard design, and business-oriented data storytelling.
+
+## DOWNLOAD PROJECT WORK HERE : ![Technova Gadgets](technova-gadgets.xlsx)
