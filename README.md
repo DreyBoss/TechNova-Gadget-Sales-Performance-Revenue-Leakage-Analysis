@@ -1,4 +1,3 @@
-# TechNova-Gadget-Sales-Performance-Revenue-Leakage-Analysis
 # TechNova Gadgets | Sales Performance & Revenue Leakage Analysis
 
 ## Project Overview
@@ -23,6 +22,18 @@ Additional areas of investigation included:
 - Product performance.
 - Pending orders.
 - Revenue versus profit analysis.
+
+## Project Contents
+
+- [Dataset Overview](#dataset-overview)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Data Modelling and Analysis](#data-modelling-and-analysis)
+- [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis)
+- [Interactive Dashboards](#interactive-dashboards)
+- [Executive Summary](#executive-summary)
+- [Business Recommendations](#business-recommendations)
+- [Tools and Technologies](#tools-and-technologies)
+- [Project Outcome](#project-outcome)
 
 ## Dataset Overview
 
