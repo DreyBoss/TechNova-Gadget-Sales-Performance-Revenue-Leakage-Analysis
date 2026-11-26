@@ -94,7 +94,7 @@ The project contains four interactive dashboards.
 
 ### 1. Sales Performance Dashboard
 
-!(images/sales-performance-dashboard.png)
+![Sales Performance Dashboard](images/sales-performance-dashboard.png)
 
 **Key Findings**
 
@@ -106,7 +106,7 @@ The project contains four interactive dashboards.
 
 ### 2. Discount and Profit Margin Dashboard
 
-!(images/discount-profit-margin-dashboard.png)
+![Discount and Profit Margin Dashboard](images/discount-profit-margin-dashboard.png)
 
 **Key Findings**
 
@@ -115,7 +115,7 @@ The project contains four interactive dashboards.
 
 ### 3. Revenue Leakage Dashboard
 
-!(images/revenue-leakage-dashboard.png)
+![Revenue Leakage Dashboard](images/revenue-leakage-dashboard.png)
 
 **Key Findings**
 
@@ -145,7 +145,7 @@ The project contains four interactive dashboards.
 
 ### 4. Returned Sales Dashboard
 
-!(images/returned-sales-dashboard.png)
+![Returned Sales Dashboard](images/returned-sales-dashboard.png)
 
 This dashboard examines returned orders and their financial implications, including returned revenue, unrealised profit, and return patterns across the business.
 
